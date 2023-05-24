@@ -22,6 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
+![screenshot](https://github.com/rudransh-shrivastava/order-summary-component-page/assets/125893371/66cd73bb-ac2b-425b-89b0-bea4d619822a)
 
 ### Links
 
