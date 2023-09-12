@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/rudransh-shrivastava/order-summary-component-page)
+- Solution URL: [Solution](https://ordersummarycomponentpage.netlify.app/)
 - Live Site URL: [Live Site](http://rudransh.uk.to/OrderSummary/index.html)
 
 ## My process
