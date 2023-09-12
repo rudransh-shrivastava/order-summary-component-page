@@ -37,6 +37,5 @@ learned how to use svgs as background, ans also learned about hover states!
 
 ## Author
 
-- Website - [rudransh.uk.to](http://rudransh.uk.to)
 - Frontend Mentor - [@rudransh-shrivastava](https://www.frontendmentor.io/profile/rudransh-shrivastava)
 - Twitter - [@rudranshstwt](https://www.twitter.com/rudranshstwt)
